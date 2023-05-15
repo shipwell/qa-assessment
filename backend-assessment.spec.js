@@ -1,5 +1,5 @@
 /*
-    The objective of this exercise is to develop and execute an API functional test for a targeted APi endpoiint.
+    The objective of this exercise is to develop and execute an API functional test for a targeted APi endpoint.
     Given the short amount of time, the goal is to target a section of the API endpoint response for your functional
     test case verification, that is, do not attempt to write one or more functional tests that cover verification of
     the entire response body. Focus on one area of the response body and write your test verification for that area.
