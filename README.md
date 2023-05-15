@@ -1,4 +1,8 @@
 
+Welcome!
+The QA Assessment is comprised of two test development exercises, one for frontend web application test automation using the WebdriverIO JS test framework. The second is for a backend API test using a JS framework of your choice.
+
+
 This repo only contains an assessment test body that is expected to be filled in and executed in the WindriverIO test framework. This assumes you have an already existing Node and WebdriverIO environment installed locally on your machine. 
 
 Instructions:
