@@ -1,9 +1,11 @@
-// a basic test
+
+/*
+    Using the URL below, perform a basic test to verify the web page title before proceeding
+*/
 describe('QA interview assessment using seleniumeasy.com demo site', () => {
-    it('should have the right title', () => {
-        browser.url('https://demo.seleniumeasy.com');
-        expect(browser).toHaveTitle('Selenium Easy - Best Demo website to practice Selenium Webdriver Online');
-    })
+    it('should have the right title', async () => {
+        await browser.url('https://demo.seleniumeasy.com');
+     })
 
 /*
     For the below URL:
