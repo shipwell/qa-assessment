@@ -33,7 +33,7 @@ public class FrontendTest {
     */
     @Test
     public void Single_Input_Message_Field() {
-        driver.get("https://demo.seleniumeasy.com");
+        driver.get("https://demo.seleniumeasy.com/basic-first-form-demo.html");
         // your test script goes here
 
     }
@@ -45,7 +45,7 @@ public class FrontendTest {
     */
     @Test
     public void Two_Input_Fields_Total() {
-        driver.get("https://demo.seleniumeasy.com");
+        driver.get("https://demo.seleniumeasy.com/basic-first-form-demo.html");
         // your test script goes here
 
     }
@@ -57,21 +57,21 @@ public class FrontendTest {
     */
     @Test
     public void Check_All_Checkboxes() {
-        driver.get("https://demo.seleniumeasy.com");
+        driver.get("https://demo.seleniumeasy.com/basic-checkbox-demo.html");
         // your test script goes here
 
     }
 
     @Test
     public void UncheckAll_Button_Change() {
-        driver.get("https://demo.seleniumeasy.com");
+        driver.get("https://demo.seleniumeasy.com/basic-checkbox-demo.html");
         // your test script goes here
 
     }
 
     @Test
     public void CheckAll_Button_Change() {
-        driver.get("https://demo.seleniumeasy.com");
+        driver.get("https://demo.seleniumeasy.com/basic-checkbox-demo.html");
         // your test script goes here
 
     }
